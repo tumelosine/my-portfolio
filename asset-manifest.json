@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/lemon-website/static/css/main.51655566.css",
-    "main.js": "/lemon-website/static/js/main.0ffc5233.js",
-    "static/media/dev-image.jpg": "/lemon-website/static/media/dev-image.820700e9be98e190408c.jpg",
-    "static/media/project1.jpg": "/lemon-website/static/media/project1.c63e674680759b745e36.jpg",
-    "static/media/project2.jpg": "/lemon-website/static/media/project2.b74bb6bc05da0ecde14a.jpg",
-    "index.html": "/lemon-website/index.html",
-    "main.51655566.css.map": "/lemon-website/static/css/main.51655566.css.map",
-    "main.0ffc5233.js.map": "/lemon-website/static/js/main.0ffc5233.js.map"
+    "main.css": "/my-portfolio/static/css/main.51655566.css",
+    "main.js": "/my-portfolio/static/js/main.abc2e9b6.js",
+    "static/media/dev-image.jpg": "/my-portfolio/static/media/dev-image.820700e9be98e190408c.jpg",
+    "static/media/project1.jpg": "/my-portfolio/static/media/project1.c63e674680759b745e36.jpg",
+    "static/media/project2.jpg": "/my-portfolio/static/media/project2.b74bb6bc05da0ecde14a.jpg",
+    "index.html": "/my-portfolio/index.html",
+    "main.51655566.css.map": "/my-portfolio/static/css/main.51655566.css.map",
+    "main.abc2e9b6.js.map": "/my-portfolio/static/js/main.abc2e9b6.js.map"
   },
   "entrypoints": [
     "static/css/main.51655566.css",
-    "static/js/main.0ffc5233.js"
+    "static/js/main.abc2e9b6.js"
   ]
 }
