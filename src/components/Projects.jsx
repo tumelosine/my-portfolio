@@ -1,6 +1,6 @@
 import ProjectCard from './ProjectCard';
-import project1 from '../assets/images/project1.jpg';
-import project2 from '../assets/images/project2.jpg';
+import project1 from '../assets/images/project2.jpg';
+import project2 from '../assets/images/project1.jpg';
 
 const projects = [
   {
