@@ -9,19 +9,19 @@ const About = () => {
           <div className="flex flex-col md:flex-row items-center">
             <div className="md:w-1/2 mb-8 md:mb-0 md:pr-10">
               <p className="text-gray-600 mb-4">
-                I'm a passionate frontend developer with a keen eye for design. 
-                With over 5 years of experience in the industry, I specialize in 
-                creating visually appealing and user-friendly web applications.
+              I’m a Front-End Developer with a passion for UI/UX design, focused on creating responsive, user-friendly web interfaces. 
+              I blend design and code to build clean, interactive experiences using tools like React, HTML, CSS, JavaScript, and Figma. 
+              My goal is to design and develop digital products that are both beautiful and intuitive.
               </p>
               <p className="text-gray-600 mb-4">
-                My journey in tech started when I was studying graphic design 
+                My journey in tech started when I started studying Software Engineering at International University of Applied Sciences
                 and discovered my love for coding. Now, I combine both skills 
                 to create digital experiences that are not only functional but 
                 also beautiful.
               </p>
               <p className="text-gray-600 mb-6">
                 When I'm not coding, you can find me painting, exploring new 
-                coffee shops, or hiking with my dog.
+                coffee shops, hiking or shopping.
               </p>
               <div className="flex flex-wrap gap-4">
                 <div className="bg-pink-100 text-pink-800 px-4 py-2 rounded-full">
