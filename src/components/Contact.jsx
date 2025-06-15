@@ -52,7 +52,7 @@ const Contact = () => {
             {/* Contact Info here (already provided) */}
             {/* ... Keep your existing contact info code ... */}
           </div>
-
+          
           {/* Right Column: Contact Form */}
           <div className="lg:w-1/2 bg-white p-8 rounded-xl shadow-md">
             <form onSubmit={handleSubmit} className="space-y-6">

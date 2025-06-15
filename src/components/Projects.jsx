@@ -4,20 +4,20 @@ import project2 from '../assets/images/project2.jpg';
 
 const projects = [
   {
-    title: 'E-commerce Website',
+    title: 'To do App',
     description: 'A fully responsive e-commerce platform with cart functionality and payment integration.',
     tags: ['React', 'Tailwind CSS', 'Node.js', 'MongoDB'],
     image: project1,
-    demoUrl: '#',
-    codeUrl: '#',
+    demoUrl: 'https://tumelosine.github.io/to-do-react-app/',
+    codeUrl: 'https://github.com/tumelosine/to-do-react-app',
   },
   {
-    title: 'Fitness App UI',
+    title: 'Booking Restaurant Table',
     description: 'A modern fitness application design with workout tracking and nutrition planning.',
     tags: ['UI/UX', 'Figma', 'Mobile Design'],
     image: project2,
-    demoUrl: '#',
-    codeUrl: '#',
+    demoUrl: 'https://little-lemon-booking-website.vercel.app/',
+    codeUrl: 'https://github.com/tumelosine/lemonsite',
   },
   // Add more projects as needed
 ];
